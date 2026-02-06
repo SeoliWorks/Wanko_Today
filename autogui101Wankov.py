@@ -1,4 +1,4 @@
-#Copyright (c) 2025 Gimeitarou
+#Copyright (c) 2025 SeoliWorks
 #This software is released under the MIT License, see LICENSE.
 
 import pyautogui as pau
