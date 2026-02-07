@@ -6,7 +6,7 @@ import pyperclip
 import time
 import os
 
-def Func_AutoGUI(Pic_URL, Pic_name):
+def autoGUI(Pic_URL, Pic_name):
 
     #cmddef    
     DownloadCmd = f'powershell Invoke-WebRequest -Uri {Pic_URL} -OutFile Downloads/{Pic_name}'
