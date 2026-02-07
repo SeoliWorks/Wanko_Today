@@ -1,7 +1,7 @@
 #Copyright (c) 2025 SeoliWorks
 #This software is released under the MIT License, see LICENSE.
 
-import autogui101Wankov
+import Function
 import webbrowser
 import datetime
 import tkinter as tk
@@ -36,7 +36,7 @@ daytime_info_needed = str(year_20xx) + str(month) + str(day) #Ex:250502_=_2025å¹
 Pic_URL = f'www.fujitv.co.jp/meza/wanko/photo/w{daytime_info_needed}_0{Pic_num}.jpg'
 Pic_name = f'w{daytime_info_needed}_0{Pic_num}.jpg'
 
-autogui101Wankov.autogui_101(Pic_URL,Pic_name)
+Function.autoGUI(Pic_URL,Pic_name)
 
 #references
 #https://atmarkit.itmedia.co.jp/ait/articles/2111/02/news019.html
