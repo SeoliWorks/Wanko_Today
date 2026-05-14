@@ -1,4 +1,4 @@
-#Copyright (c) 2025 SeoliWorks
+#Copyright (c) 2025 blueshrimp-dev
 #This software is released under the MIT License, see LICENSE.
 
 import Function
